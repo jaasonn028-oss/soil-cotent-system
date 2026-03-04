@@ -1,0 +1,2 @@
+Best Test Loss: 0.1108
+Final R² Score: 0.8454
